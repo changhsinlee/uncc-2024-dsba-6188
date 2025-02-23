@@ -3,3 +3,6 @@ pandas==2.1.4
 jupyterlab==4.0.9
 torch==2.1.2
 spacy==3.7.2
+matplotlib==3.8.3
+sentence_transformers==3.4.1
+datasets==2.18.0
